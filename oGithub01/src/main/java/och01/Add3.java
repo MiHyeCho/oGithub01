@@ -30,7 +30,7 @@ public class Add3 extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		// response.getWriter().append("Served at: ").append(request.getContextPath());
-		System.out.println("doGet 여기왔네");
+		System.out.println("이미 Up 내용을 수정...");
 		
 		// ★★★ GET방식은 request에 대한 Encoding은 안해도 된다.
 		
